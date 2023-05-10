@@ -1,17 +1,16 @@
 # BASE CODE from github template - shopify-base
 Base setup for modular sections and blocks with gulp sass compiler - https://github.com/mcavady/shopify-base
 
-# jsm-image-tiles - Dawn v6.*
+# jsm-trust-cards - Dawn v6.*
 
-Image tiles that have a number of options to them - fullwidth
+Images and testimonials on cards ( editable )
 
 # Usage
-
 Copy following files of the root dir for your shopify project;
 
-/assets/jsm-image-tiles.css
+/assets/jsm-trust-cards.css
 <br/>
-/sections/jsm-image-tiles.liquid
+/sections/-trust-cards.liquid
 <br/>
 
 # Add these lines to your en.default.schema.json
