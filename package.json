@@ -1,7 +1,7 @@
 {
-  "name": "shopify_jsm-image-tiles",
-  "version": "1.0.4",
-  "description": "Shopify 2.0 - jsm image tiles - section and blocks with translation",
+  "name": "shopify_jsm-trust-cards",
+  "version": "1.0.0",
+  "description": "Shopify 2.0 - jsm Trust Cards - section and blocks with translation",
   "author": "James Mcavady",
   "dependencies": {
     "@shopify/cli": "^3.23.0"
